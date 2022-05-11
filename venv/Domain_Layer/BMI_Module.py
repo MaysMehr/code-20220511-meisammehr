@@ -208,4 +208,6 @@ class BMI():
 		"""
 		return self.df_People
 
+	def test1(self):
+		return 123
 
